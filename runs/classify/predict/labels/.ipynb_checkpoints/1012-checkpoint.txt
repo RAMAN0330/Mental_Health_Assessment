@@ -1,0 +1,4 @@
+0.74 angry
+0.23 happy
+0.03 sad
+0.00 nothing
